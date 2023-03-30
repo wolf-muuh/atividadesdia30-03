@@ -1,0 +1,15 @@
+C:\Users\54750759805\Desktop\indentificador de triangulos\bin\Debug\net7.0\indentificador de triangulos.exe
+C:\Users\54750759805\Desktop\indentificador de triangulos\bin\Debug\net7.0\indentificador de triangulos.deps.json
+C:\Users\54750759805\Desktop\indentificador de triangulos\bin\Debug\net7.0\indentificador de triangulos.runtimeconfig.json
+C:\Users\54750759805\Desktop\indentificador de triangulos\bin\Debug\net7.0\indentificador de triangulos.dll
+C:\Users\54750759805\Desktop\indentificador de triangulos\bin\Debug\net7.0\indentificador de triangulos.pdb
+C:\Users\54750759805\Desktop\indentificador de triangulos\obj\Debug\net7.0\indentificador de triangulos.csproj.AssemblyReference.cache
+C:\Users\54750759805\Desktop\indentificador de triangulos\obj\Debug\net7.0\indentificador de triangulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54750759805\Desktop\indentificador de triangulos\obj\Debug\net7.0\indentificador de triangulos.AssemblyInfoInputs.cache
+C:\Users\54750759805\Desktop\indentificador de triangulos\obj\Debug\net7.0\indentificador de triangulos.AssemblyInfo.cs
+C:\Users\54750759805\Desktop\indentificador de triangulos\obj\Debug\net7.0\indentificador de triangulos.csproj.CoreCompileInputs.cache
+C:\Users\54750759805\Desktop\indentificador de triangulos\obj\Debug\net7.0\indentificador de triangulos.dll
+C:\Users\54750759805\Desktop\indentificador de triangulos\obj\Debug\net7.0\refint\indentificador de triangulos.dll
+C:\Users\54750759805\Desktop\indentificador de triangulos\obj\Debug\net7.0\indentificador de triangulos.pdb
+C:\Users\54750759805\Desktop\indentificador de triangulos\obj\Debug\net7.0\indentificador de triangulos.genruntimeconfig.cache
+C:\Users\54750759805\Desktop\indentificador de triangulos\obj\Debug\net7.0\ref\indentificador de triangulos.dll

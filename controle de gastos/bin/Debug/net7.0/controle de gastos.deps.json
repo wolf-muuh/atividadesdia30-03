@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "controle de gastos/1.0.0": {
+        "runtime": {
+          "controle de gastos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "controle de gastos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

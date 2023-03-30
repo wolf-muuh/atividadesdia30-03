@@ -1,0 +1,15 @@
+C:\Users\54750759805\Desktop\placar jogo\bin\Debug\net7.0\placar jogo.exe
+C:\Users\54750759805\Desktop\placar jogo\bin\Debug\net7.0\placar jogo.deps.json
+C:\Users\54750759805\Desktop\placar jogo\bin\Debug\net7.0\placar jogo.runtimeconfig.json
+C:\Users\54750759805\Desktop\placar jogo\bin\Debug\net7.0\placar jogo.dll
+C:\Users\54750759805\Desktop\placar jogo\bin\Debug\net7.0\placar jogo.pdb
+C:\Users\54750759805\Desktop\placar jogo\obj\Debug\net7.0\placar jogo.csproj.AssemblyReference.cache
+C:\Users\54750759805\Desktop\placar jogo\obj\Debug\net7.0\placar jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54750759805\Desktop\placar jogo\obj\Debug\net7.0\placar jogo.AssemblyInfoInputs.cache
+C:\Users\54750759805\Desktop\placar jogo\obj\Debug\net7.0\placar jogo.AssemblyInfo.cs
+C:\Users\54750759805\Desktop\placar jogo\obj\Debug\net7.0\placar jogo.csproj.CoreCompileInputs.cache
+C:\Users\54750759805\Desktop\placar jogo\obj\Debug\net7.0\placar jogo.dll
+C:\Users\54750759805\Desktop\placar jogo\obj\Debug\net7.0\refint\placar jogo.dll
+C:\Users\54750759805\Desktop\placar jogo\obj\Debug\net7.0\placar jogo.pdb
+C:\Users\54750759805\Desktop\placar jogo\obj\Debug\net7.0\placar jogo.genruntimeconfig.cache
+C:\Users\54750759805\Desktop\placar jogo\obj\Debug\net7.0\ref\placar jogo.dll
