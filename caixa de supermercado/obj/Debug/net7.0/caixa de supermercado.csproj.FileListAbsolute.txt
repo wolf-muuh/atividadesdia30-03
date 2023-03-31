@@ -1,0 +1,15 @@
+C:\Users\54750759805\Desktop\caixa de supermercado\bin\Debug\net7.0\caixa de supermercado.exe
+C:\Users\54750759805\Desktop\caixa de supermercado\bin\Debug\net7.0\caixa de supermercado.deps.json
+C:\Users\54750759805\Desktop\caixa de supermercado\bin\Debug\net7.0\caixa de supermercado.runtimeconfig.json
+C:\Users\54750759805\Desktop\caixa de supermercado\bin\Debug\net7.0\caixa de supermercado.dll
+C:\Users\54750759805\Desktop\caixa de supermercado\bin\Debug\net7.0\caixa de supermercado.pdb
+C:\Users\54750759805\Desktop\caixa de supermercado\obj\Debug\net7.0\caixa de supermercado.csproj.AssemblyReference.cache
+C:\Users\54750759805\Desktop\caixa de supermercado\obj\Debug\net7.0\caixa de supermercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54750759805\Desktop\caixa de supermercado\obj\Debug\net7.0\caixa de supermercado.AssemblyInfoInputs.cache
+C:\Users\54750759805\Desktop\caixa de supermercado\obj\Debug\net7.0\caixa de supermercado.AssemblyInfo.cs
+C:\Users\54750759805\Desktop\caixa de supermercado\obj\Debug\net7.0\caixa de supermercado.csproj.CoreCompileInputs.cache
+C:\Users\54750759805\Desktop\caixa de supermercado\obj\Debug\net7.0\caixa de supermercado.dll
+C:\Users\54750759805\Desktop\caixa de supermercado\obj\Debug\net7.0\refint\caixa de supermercado.dll
+C:\Users\54750759805\Desktop\caixa de supermercado\obj\Debug\net7.0\caixa de supermercado.pdb
+C:\Users\54750759805\Desktop\caixa de supermercado\obj\Debug\net7.0\caixa de supermercado.genruntimeconfig.cache
+C:\Users\54750759805\Desktop\caixa de supermercado\obj\Debug\net7.0\ref\caixa de supermercado.dll

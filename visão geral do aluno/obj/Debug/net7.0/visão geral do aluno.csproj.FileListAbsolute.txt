@@ -1,0 +1,15 @@
+C:\Users\54750759805\Desktop\visão geral do aluno\bin\Debug\net7.0\visão geral do aluno.exe
+C:\Users\54750759805\Desktop\visão geral do aluno\bin\Debug\net7.0\visão geral do aluno.deps.json
+C:\Users\54750759805\Desktop\visão geral do aluno\bin\Debug\net7.0\visão geral do aluno.runtimeconfig.json
+C:\Users\54750759805\Desktop\visão geral do aluno\bin\Debug\net7.0\visão geral do aluno.dll
+C:\Users\54750759805\Desktop\visão geral do aluno\bin\Debug\net7.0\visão geral do aluno.pdb
+C:\Users\54750759805\Desktop\visão geral do aluno\obj\Debug\net7.0\visão geral do aluno.csproj.AssemblyReference.cache
+C:\Users\54750759805\Desktop\visão geral do aluno\obj\Debug\net7.0\visão geral do aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54750759805\Desktop\visão geral do aluno\obj\Debug\net7.0\visão geral do aluno.AssemblyInfoInputs.cache
+C:\Users\54750759805\Desktop\visão geral do aluno\obj\Debug\net7.0\visão geral do aluno.AssemblyInfo.cs
+C:\Users\54750759805\Desktop\visão geral do aluno\obj\Debug\net7.0\visão geral do aluno.csproj.CoreCompileInputs.cache
+C:\Users\54750759805\Desktop\visão geral do aluno\obj\Debug\net7.0\visão geral do aluno.dll
+C:\Users\54750759805\Desktop\visão geral do aluno\obj\Debug\net7.0\refint\visão geral do aluno.dll
+C:\Users\54750759805\Desktop\visão geral do aluno\obj\Debug\net7.0\visão geral do aluno.pdb
+C:\Users\54750759805\Desktop\visão geral do aluno\obj\Debug\net7.0\visão geral do aluno.genruntimeconfig.cache
+C:\Users\54750759805\Desktop\visão geral do aluno\obj\Debug\net7.0\ref\visão geral do aluno.dll

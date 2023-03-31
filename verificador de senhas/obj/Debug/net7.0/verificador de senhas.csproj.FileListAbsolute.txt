@@ -1,0 +1,15 @@
+C:\Users\54750759805\Desktop\verificador de senhas\bin\Debug\net7.0\verificador de senhas.exe
+C:\Users\54750759805\Desktop\verificador de senhas\bin\Debug\net7.0\verificador de senhas.deps.json
+C:\Users\54750759805\Desktop\verificador de senhas\bin\Debug\net7.0\verificador de senhas.runtimeconfig.json
+C:\Users\54750759805\Desktop\verificador de senhas\bin\Debug\net7.0\verificador de senhas.dll
+C:\Users\54750759805\Desktop\verificador de senhas\bin\Debug\net7.0\verificador de senhas.pdb
+C:\Users\54750759805\Desktop\verificador de senhas\obj\Debug\net7.0\verificador de senhas.csproj.AssemblyReference.cache
+C:\Users\54750759805\Desktop\verificador de senhas\obj\Debug\net7.0\verificador de senhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54750759805\Desktop\verificador de senhas\obj\Debug\net7.0\verificador de senhas.AssemblyInfoInputs.cache
+C:\Users\54750759805\Desktop\verificador de senhas\obj\Debug\net7.0\verificador de senhas.AssemblyInfo.cs
+C:\Users\54750759805\Desktop\verificador de senhas\obj\Debug\net7.0\verificador de senhas.csproj.CoreCompileInputs.cache
+C:\Users\54750759805\Desktop\verificador de senhas\obj\Debug\net7.0\verificador de senhas.dll
+C:\Users\54750759805\Desktop\verificador de senhas\obj\Debug\net7.0\refint\verificador de senhas.dll
+C:\Users\54750759805\Desktop\verificador de senhas\obj\Debug\net7.0\verificador de senhas.pdb
+C:\Users\54750759805\Desktop\verificador de senhas\obj\Debug\net7.0\verificador de senhas.genruntimeconfig.cache
+C:\Users\54750759805\Desktop\verificador de senhas\obj\Debug\net7.0\ref\verificador de senhas.dll
